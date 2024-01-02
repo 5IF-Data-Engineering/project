@@ -1,0 +1,6 @@
+[submodule "kafka-streaming"]
+	path = kafka-streaming
+	url = https://github.com/5IF-Data-Engineering/kafka-streaming.git
+[submodule "batch"]
+	path = batch
+	url = https://github.com/5IF-Data-Engineering/deng-project.git
